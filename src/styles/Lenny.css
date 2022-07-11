@@ -1,0 +1,11 @@
+#Lenny{
+    text-align: center;
+}
+
+#Lenny>*{
+    margin: 64px;
+}
+
+#three{
+    font-size:96px;
+}

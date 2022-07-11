@@ -1,0 +1,30 @@
+#Nav{
+    position: sticky; 
+    top: 0;
+    box-sizing: border-box;
+    display: flex;
+    padding: 12px;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    background-color:rgb(110, 197, 233);
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+#logo{
+    display:flex;
+    gap: 12px;
+}
+#IB {
+    width: 48px;
+    height: 48px;
+}
+#dir {
+    display: flex;
+    gap: 36px;
+}
+
+h2{
+    font-size: 30px;
+}
+

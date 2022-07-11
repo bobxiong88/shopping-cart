@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald&display=swap');
+
+*{
+    font-family: Oswald;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    color: black;
+}
+
+nav{
+    color: black;
+    
+}

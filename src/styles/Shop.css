@@ -1,0 +1,41 @@
+#Shop{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sectionHeader{
+    margin: 48px;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 256px 256px 256px;
+    grid-column-gap: 48px;
+    grid-row-gap: 48px;
+    margin: auto;
+}
+
+.display>*{
+    font-family:'Times New Roman', Times, serif !important;
+    font-weight: bold !important;
+    font-size: 12px;
+}
+
+.display{
+    box-sizing: border-box;
+    display: flex;
+    height: 362px;
+    border: 1px solid black;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 24px; 
+}
+
+.info{
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-top: none;
+    font-size: 14px;
+    padding: 4px;
+}
